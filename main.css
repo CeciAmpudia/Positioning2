@@ -1,0 +1,24 @@
+.naranja {
+	width: 200px;
+	height: 200px;
+	background-color: #FF4000;
+	position: static;
+}
+.morado {
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	position: relative;
+	left: 50px;
+	top: 50px;
+}
+.amarillo {
+	width: 50px;
+	height: 50px;
+	background-color: yellow;
+	position: absolute;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
